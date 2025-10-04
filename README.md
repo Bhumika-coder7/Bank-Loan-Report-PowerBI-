@@ -51,16 +51,18 @@ This helped ensure the accuracy of the data and improved the insights reflected 
 
 ---
 
-## 🗂 Project Structure
+## 📂 Project Structure
 
+```
 Bank-Loan-Report-PowerBI-Dashboard/
 │
-├── Bank Loan Report.pbix # Power BI dashboard file
-├── Bank Loan Report.pdf # Exported dashboard report (PDF)
-├── bank_loan_report_page_1.png # Dashboard snapshot - Page 1
-├── bank_loan_report_page_2.png # Dashboard snapshot - Page 2
-├── loan_validation_queries.sql # (Optional) SQL queries for data validation
-└── README.md # Project documentation
+├── Bank Loan Report.pbix           # Power BI dashboard file
+├── Bank Loan Report.pdf            # Exported dashboard report (PDF)
+├── bank_loan_report_page_1.png     # Dashboard snapshot - Page 1
+├── bank_loan_report_page_2.png     # Dashboard snapshot - Page 2
+├── loan_validation_queries.sql     # (Optional) SQL queries for data validation
+└── README.md                       # Project documentation
+```
 
 ---
 
