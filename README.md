@@ -51,26 +51,38 @@ This helped ensure the accuracy of the data and improved the insights reflected 
 
 ---
 
-## 🗂 Files in Repository
-- `Bank Loan Report.pbix` → Power BI dashboard file  
-- `Bank Loan Report.pdf` → Exported dashboard report  
-- `README.md` → Project documentation  
-- `bank_loan_report_page_1.png`, `bank_loan_report_page_2.png` → Dashboard snapshots  
+## 🗂 Project Structure
+
+Bank-Loan-Report-PowerBI-Dashboard/
+│
+├── Bank Loan Report.pbix # Power BI dashboard file
+├── Bank Loan Report.pdf # Exported dashboard report (PDF)
+├── bank_loan_report_page_1.png # Dashboard snapshot - Page 1
+├── bank_loan_report_page_2.png # Dashboard snapshot - Page 2
+├── loan_validation_queries.sql # (Optional) SQL queries for data validation
+└── README.md # Project documentation
 
 ---
 
 ## 🚀 How to Use
 1. Download the `.pbix` file.  
 2. Open in Power BI Desktop to explore the dashboard.  
-3. Review the SQL queries (if included) for validation steps.  
+3. Explore loan KPIs and insights using interactive visuals.  
 
 ---
 
 ## 📈 Future Improvements
-- Automate data refresh using Python or SQL Server.  
-- Add predictive modeling (loan default risk) in Python.
+- Automate data refresh using Python/SQL.  
+- Add predictive modeling for loan default risk.  
+- Deploy the dashboard to Power BI Service for real-time sharing.  
 
 ---
+
+## 🙌 Acknowledgments
+This project is part of my data analytics learning journey, focusing on **SQL + Power BI** integration for financial data.
+
+---
+
 ## Created by
 Bhumika Gajbhiye – M.Sc. Statistics | Aspiring Data Analyst
 ---
