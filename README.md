@@ -71,5 +71,9 @@ This helped ensure the accuracy of the data and improved the insights reflected 
 - Add predictive modeling (loan default risk) in Python.
 
 ---
-
+## Created by
+Bhumika Gajbhiye – M.Sc. Statistics | Aspiring Data Analyst
+---
 **Connect with me on LinkedIn:** [www.linkedin.com/in/bhumika-gajbhiye]
+
+
