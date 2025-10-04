@@ -45,18 +45,31 @@ This helped ensure the accuracy of the data and improved the insights reflected 
 - Financial analytics and storytelling  
 
 ---
-
-## 📁 Files
-- `Bank LOan Report.pbix` → Power BI source file  
-- `Bank LOan Report.pdf` → Exported report  
-- `bank_loan_report_highlights.png` → Dashboard preview image  
+## 📷 Dashboard Preview
+![Dashboard Page 1](bank_loan_report_page_1.png)
+![Dashboard Page 2](bank_loan_report_page_2.png)
 
 ---
 
-## 💬 About
-This project demonstrates how **SQL** and **Power BI** can be combined to transform raw data into actionable financial insights.  
-Next step → Rebuilding this project using **Python & Streamlit** for deeper analytics.
+## 🗂 Files in Repository
+- `Bank Loan Report.pbix` → Power BI dashboard file  
+- `Bank Loan Report.pdf` → Exported dashboard report  
+- `README.md` → Project documentation  
+- `bank_loan_report_page_1.png`, `bank_loan_report_page_2.png` → Dashboard snapshots  
 
 ---
 
-**Connect with me on LinkedIn:** [Your LinkedIn URL]
+## 🚀 How to Use
+1. Download the `.pbix` file.  
+2. Open in Power BI Desktop to explore the dashboard.  
+3. Review the SQL queries (if included) for validation steps.  
+
+---
+
+## 📈 Future Improvements
+- Automate data refresh using Python or SQL Server.  
+- Add predictive modeling (loan default risk) in Python.
+
+---
+
+**Connect with me on LinkedIn:** [www.linkedin.com/in/bhumika-gajbhiye]
